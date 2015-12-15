@@ -1,5 +1,5 @@
 # mysite
-Official Django Tutorial Example
+Official Django Tutorial Example using python 3.5 and Django 1.9
 
 
 ```
